@@ -1,0 +1,7 @@
+{
+  "name": "cloudinary-delete-server",
+  "version": "1.0.0",
+  "dependencies": {
+    "cloudinary": "^1.37.2"
+  }
+}
